@@ -5,7 +5,8 @@ local Window = OrionLib:MakeWindow({
     HidePremium = false, 
     SaveConfig = true, 
     IntroText = "Key System", 
-    ConfigFolder = "OrionTest"
+    ConfigFolder = "OrionTest",
+    Icon = "rbxassetid://17536078972"
 })
 
 local Tab = Window:MakeTab({
